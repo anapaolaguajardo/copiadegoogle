@@ -13,7 +13,7 @@
 En este proyecto me enfoque en construir la clonacion de la interfaz de Google.
 Contiene las siguientes secciones:
 
-- *Heather:* Seccion que involucra la foto de mi perfil, iconos y un menu con enlaces externos.
+- *Header:* Seccion que involucra la foto de mi perfil, iconos y un menu con enlaces externos.
 
 - *Main:* Seccion del contenedor para los elementos centrales de la pagina: logo, barra de busqueda, iconos y botones.
 
